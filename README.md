@@ -32,7 +32,8 @@ Respuesta:
 🕒 El tiempo de descomposición de **botella de plástico** es aproximadamente: 450 años.
 Si el objeto no está en la base de datos, responderá:
 
-❌ Lo siento, no tengo información sobre el tiempo de descomposición de **<objeto>**.
+❌ Lo siento, no tengo información sobre el tiempo de descomposición de "objeto"
+
 Requisitos
 Python 3.8 o superior.
 Librería discord.py instalada:
@@ -56,10 +57,8 @@ Configura tu token en el archivo del bot: Reemplaza TU_TOKEN_AQUI con tu token d
 
 Ejecuta el bot:
 
-
-
 python ecobot.py
-dwww
+
 Personalización
 
 Consejos ecológicos: Puedes añadir más consejos a la lista eco_tips en el código.
